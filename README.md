@@ -1,4 +1,5 @@
-# Breast-Cancer-Dataset
+# Evaluating the performance of machine learning techniques in breast Cancer classification from the India database acquired through Kaggle
+
 Breast Cancer Dataset - Binary Classification Prediction for type of Breast Cancer by Kaggle author M Yasser H published December 29, 2021 with KNN, SVM and MLP.
 
 The studied database contains 32 columns composed of data related to breast cancer.
